@@ -19,7 +19,7 @@
 - 硬   盘: 致钛PC005 Active 256GB Windows
 - 硬   盘: 梵想S500 PRO 2TB  DATA + MacOS
 - 独   显: 技嘉 AMD Radeon RX 5600 XT DDR6 6GB
-- 核   显: 英特尔超核心显卡770（仅支持Window,无法再MacOS中使用）
+- 核   显: 英特尔超核心显卡770（仅支持Window,无法在MacOS中使用）
 - 声   卡: 瑞昱 ALC897
 - 有线网卡: 瑞昱 RTL8125
 - 无线网卡: 英特尔 AX211
