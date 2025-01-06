@@ -2,7 +2,7 @@
 
 ![image](ScreenShot/ERYINGH770.jpg)
 
-[OpenCore 1.0.3](https://github.com/acidanthera/OpenCorePkg)  适用于尔英极星全系CPU i5 / i7 / i9
+[OpenCore 1.0.3](https://github.com/acidanthera/OpenCorePkg)  适用于尔英极星14代全系CPU i5 / i7 / i9
 
 ### macOS
 
